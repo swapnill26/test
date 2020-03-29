@@ -1,2 +1,1 @@
-# test
-This is exercise project
+# Read me file for add project details
