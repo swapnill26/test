@@ -1,0 +1,25 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "swagger",
+    "description": "",
+    "version": "1.0"
+  },
+  "produces": [
+    "application/json"
+  ],
+  "paths": {
+    "/comment": {
+      "get": {
+        "x-swagger-router-controller": "comment",
+        "operationId": "index",
+        "tags": [
+          "/commant"
+        ],
+        "description": "sample here",
+        "parameters": [],
+        "responses": {}
+      }
+    }
+  }
+}
